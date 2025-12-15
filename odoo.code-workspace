@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"chat.modeFilesLocations": {
+			".github/chatmodes": true,
+			"/Users/vscode/repos/chatmodes": true
+		},
+		"git.ignoreLimitWarning": true,
+		"explorer.fileNesting.expand": false
+	}
+}
